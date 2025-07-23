@@ -3,9 +3,9 @@ Data cleaning and analysis of a world wide company layoff database. Data was fou
 
 The goal of this project was to learn data cleaning practiices in SQL and then use the cleaned data in a Power BI report and contains the following files:
 
-**Data-Cleaning-Project.sql:** Displays the steps taken to clean the data.
-**Exploratory-Data-Analysis.sql:** SQL commands run to pull various information from the cleaned database.
-**Layoffs Exploration.pbix:** a Power BI report created to display insights on the data.
+- **Data-Cleaning-Project.sql:** Displays the steps taken to clean the data.
+- **Exploratory-Data-Analysis.sql:** SQL commands run to pull various information from the cleaned database.
+- **Layoffs Exploration.pbix:** a Power BI report created to display insights on the data.
 
 At present, the report contains the following:
 - Page 1: Layoff information from March 6 2022 to March 6 2023 (the latest date in the initial file)
