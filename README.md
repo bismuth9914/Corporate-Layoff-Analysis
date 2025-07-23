@@ -5,7 +5,7 @@ The goal of this project was to learn data cleaning practiices in SQL and then u
 
 - **Data-Cleaning-Project.sql:** Displays the steps taken to clean the data.
 - **Exploratory-Data-Analysis.sql:** SQL commands run to pull various information from the cleaned database.
-- **Layoffs Exploration.pbix:** a Power BI report created to display insights on the data.
+- **Layoffs Exploration.pbix:** a Power BI report created to display insights on the data. ***Requires layoffs_staging_2.xlsx***
 
 At present, the report contains the following:
 - Page 1: Layoff information from March 6 2022 to March 6 2023 (the latest date in the initial file)
