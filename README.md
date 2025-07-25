@@ -18,7 +18,7 @@ At present, the report contains the following:
   - Cards containing the total laid off, top industry, number of companies, and funds raised (millions) according to which country has been selected
 
 Next steps for this data exploration are as follows:
-1. Add average rowkforce laid off view for page 2
+1. Add average workforce laid off view for page 2
 2. Add a page to the PowerBI report that focuses on industries
 3. Create a mobile device variant of the report
 4. Experiment with further normalizing the SQL data
