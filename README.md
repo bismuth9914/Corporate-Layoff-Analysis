@@ -21,6 +21,7 @@ At present, the report contains the following:
   - Buttons that toggle between the sum of people laid off and the average percentage of workforce laid off
 
 Next steps for this data exploration are as follows:
-2. Add a page to the PowerBI report that focuses on industries
-3. Create a mobile device variant of the report
-4. Experiment with further normalizing the SQL data
+1. Add a page to the PowerBI report that focuses on industries
+2. Create a mobile device variant of the report
+3. Experiment with further normalizing the SQL data
+4. Experiment with adding per capita layoff percentages for each country in the dataset
