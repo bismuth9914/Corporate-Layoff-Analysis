@@ -21,7 +21,7 @@ At present, the report contains the following:
   - A map and treemap displaying the countries sorted by total number of people laid off or average percentage of workforce laid off
   - Cards containing the total laid off, top industry, number of companies, and funds raised (millions) according to which country has been selected
   - Buttons that toggle between the sum of people laid off and the average percentage of workforce laid off
-- Page 2: Layoff information displayed by industry
+- Page 3: Layoff information displayed by industry
   - A pie chart featuring the top industries sorted by either percentage laid off or largest total volume laid off
   - A column graph displaying the industries sorted by either percentage laid off or largest total volume laid off
   - A slicer to determine the cutoff point for the data shown within the column graoh and the pie chart
